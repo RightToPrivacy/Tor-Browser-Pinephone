@@ -41,7 +41,9 @@ For Mobian, using the start-tor-browser.desktop file I modified slightly is need
 Please Share to help me gain more views. :)
 
 My Links:
+
 Support/Blog: https://www.buymeacoffee.com/politictech
+
 CashApp: $HumanRightsTech
 
 I appreciate it. :)

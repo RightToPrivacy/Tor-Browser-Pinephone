@@ -23,6 +23,11 @@ https://sourceforge.net/projects/tor-browser-ports/files/
 2.) Extract the Tor Arm64 Browser. 
 
 3.) Save my edited (for Mobian fix) start-tor-browser.desktop file to:
+
+    ~/.local/share/applications/start-tor-browser.desktop
+    
+    or
+    
     /usr/share/applications/start-tor-browser.desktop
 
 3.) Edit the Exec= line on my slightly modified start-tor-browser.desktop file (should now be in /usr/share/applications) to carry the full path of
@@ -42,11 +47,9 @@ Please Share to help me gain more views. :)
 
 My Links:
 
-Support/Blog: https://www.buymeacoffee.com/politictech
+Blog (Public): https://www.buymeacoffee.com/politictech/posts
 
 CashApp: $HumanRightsTech
-
-I appreciate it. :)
 
 ------------------------------------
 
